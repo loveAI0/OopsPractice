@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="261e2515-db38-4561-8adf-a226892683f4" name="Changes" comment="jkjg" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="16" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OopsPractice" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;loveAI0&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d8e5de48-f9e6-4ae1-8585-a5e959e61569" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/loveAI0/Inventory_OOPs.git&quot;,
+    &quot;accountId&quot;: &quot;d8e5de48-f9e6-4ae1-8585-a5e959e61569&quot;
+  }
+}</component>
+  <component name="LLMProjectSettings">
+    <option name="turned_on" value="false" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1868561560793673" />
+      <entry key="MS500" value="1.7149924931808453" />
+      <entry key="S2" value="1.9195500461516581" />
+      <entry key="S5" value="1.9670081808446849" />
+      <entry key="S10" value="1.9833657411384533" />
+      <entry key="S30" value="1.9945874301214364" />
+      <entry key="S60" value="2.0486675146902975" />
+      <entry key="M2" value="3.3862141261759158" />
+      <entry key="M5" value="19.660261429942473" />
+      <entry key="M10" value="59.7285580163156" />
+      <entry key="M15" value="94.86618540813309" />
+      <entry key="M30" value="159.93420165340783" />
+      <entry key="H1" value="213.12235317624993" />
+      <entry key="H2" value="254.51461751665852" />
+      <entry key="H4" value="330.8242870434431" />
+      <entry key="D1" value="823.3075158250674" />
+      <entry key="W1" value="1120.7347285852222" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="1.0962113350283386E-180" />
+      <entry key="M2" value="2.776431419969611E-90" />
+      <entry key="M5" value="6.999733366687025E-36" />
+      <entry key="M10" value="1.1570177954808113E-17" />
+      <entry key="M15" value="1.499040730190668E-11" />
+      <entry key="M30" value="2.317067152538836E-5" />
+      <entry key="H1" value="0.038566413242686025" />
+      <entry key="H2" value="1.99391008620781" />
+      <entry key="H4" value="16.571487919462072" />
+      <entry key="D1" value="131.83612165969356" />
+      <entry key="W1" value="203.78571366860777" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1574265720365606" />
+      <entry key="MS500" value="1.70393747220173" />
+      <entry key="S2" value="1.9162827272182814" />
+      <entry key="S5" value="1.9656544435768326" />
+      <entry key="S10" value="1.982680802303756" />
+      <entry key="S30" value="1.994357254036093" />
+      <entry key="S60" value="2.048545536639851" />
+      <entry key="M2" value="3.3860667542767073" />
+      <entry key="M5" value="19.659571393457455" />
+      <entry key="M10" value="59.727169160584765" />
+      <entry key="M15" value="94.86461860356673" />
+      <entry key="M30" value="159.932858564177" />
+      <entry key="H1" value="213.15997471862826" />
+      <entry key="H2" value="256.50707774653245" />
+      <entry key="H4" value="347.39140707432085" />
+      <entry key="D1" value="955.1379282971901" />
+      <entry key="W1" value="1324.5191959474228" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KRSDzZE31Q1wZbH5oJc5EBmKxp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/amritraut/IdeaProjects/OopsPractice/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="261e2515-db38-4561-8adf-a226892683f4" name="Changes" comment="" />
+      <created>1791518775522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791518775522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/OopsPractice" />
+    </ignored-roots>
+    <MESSAGE value="inheritance, polymorphism and encapsulation is archived." />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance, polymorphism and encapsulation is archived." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
